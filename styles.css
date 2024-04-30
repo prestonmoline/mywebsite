@@ -1,0 +1,29 @@
+body {font-family: Arial, Helvetica, sans-serif;font-size: 15px;background-color: rgb(130, 156, 185);}
+
+ul {font-size: 14px;}
+
+li {font-weight: normal;font-style: normal}
+
+.bold {font-weight: bold}
+
+.underline {text-decoration: underline;}
+
+.justify {text-align: justify;}
+
+.homebg {    background-image: url('images/Background.jpeg');background-position: bottom center;}
+
+.whitetext {color: white;}
+
+a {text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+a:visited {color: blue;}
+
+.box1 {border: solid 1px red;border-bottom: dotted 2px yellow;}
+
+.box2 {padding: 5px}
+
+.box3 {margin: 5px}
+
+/* this is the way you comment on code in CSS */
